@@ -115,7 +115,6 @@ This project is created for educational purposes.
 ## 🙏 Acknowledgments
 
 - Bootstrap team for the amazing framework
-- Group collaboration project
 - Part of web development coursework - Bootstrap practice
 - Thanks to all team members for their contributions
 

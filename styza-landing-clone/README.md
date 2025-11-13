@@ -107,7 +107,6 @@ This project is created for educational purposes.
 ## 🙏 Acknowledgments
 
 - Design inspiration from Styza
-- Group collaboration project
 - Part of web development coursework
 - Thanks to all team members for their contributions
 

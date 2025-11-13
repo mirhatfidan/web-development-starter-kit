@@ -113,7 +113,6 @@ This project is created for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Group collaboration project
 - Part of web development coursework - JavaScript practice
 - Thanks to all team members for their contributions
 - Focus on vanilla JavaScript fundamentals

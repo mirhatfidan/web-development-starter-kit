@@ -149,7 +149,6 @@ This project is created for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Group collaboration project
 - Part of web development coursework - ES6+ JavaScript practice
 - Thanks to all team members (Mirhat & Ekin) for their contributions
 - Focus on modern JavaScript and OOP principles

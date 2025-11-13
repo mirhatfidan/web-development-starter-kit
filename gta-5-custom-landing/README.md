@@ -110,7 +110,6 @@ This project is created for educational purposes.
 ## 🙏 Acknowledgments
 
 - Design inspiration from GTA 5
-- Group collaboration project
 - Part of web development coursework - Grid layout practice
 - Thanks to all team members for their contributions
 

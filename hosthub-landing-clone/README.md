@@ -155,7 +155,6 @@ This project is created for educational purposes.
 
 - Bootstrap team for the amazing framework
 - Sass team for the powerful preprocessor
-- Group collaboration project
 - Part of web development coursework - Bootstrap + Sass practice
 - Thanks to all team members for their contributions
 

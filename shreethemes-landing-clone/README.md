@@ -95,7 +95,6 @@ This project is created for educational purposes.
 ## 🙏 Acknowledgments
 
 - Design inspiration from Shreethemes
-- Group collaboration project
 - Part of web development coursework
 
 ---

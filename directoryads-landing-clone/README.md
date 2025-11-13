@@ -140,7 +140,6 @@ This project is created for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Group collaboration project
 - Part of web development coursework - Sass/SCSS practice
 - Thanks to all team members for their contributions
 - Focus on modern CSS preprocessing workflow

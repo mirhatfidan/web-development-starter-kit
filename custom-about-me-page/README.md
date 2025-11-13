@@ -105,7 +105,6 @@ This project is created for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Group collaboration project
 - Part of web development coursework - CSS Animation practice
 - Thanks to all team members for their contributions
 - Special focus on animation techniques
